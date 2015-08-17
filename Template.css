@@ -1,0 +1,115 @@
+@charset "utf-8";
+
+body{
+	color:#FFF;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+}
+
+#bodypesquisa{
+	background-color:#CCC;
+	color:#FFF;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+}
+
+#button{
+	background:url(Imagens/button1.png);
+	border:none;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:12px;
+	width:115px;
+	height:25px;
+}
+
+#button2{
+	background:url(Imagens/button2.png);
+	border:none;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:12px;
+	width:250px;
+	height:25px;
+}
+
+#button3{
+	background:url(Imagens/button3.png);
+	border:none;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:12px;
+	width:70px;
+	height:25px;
+}
+
+textarea{
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	background-color:#CCC
+}
+
+table{
+	background:#00abe3;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+}
+
+#wtable{
+	background:#FFF;
+}
+
+td.submenu{
+	background:#0c69a6;
+}
+
+td.submenugrande{
+	background:#0c69a6;
+}
+
+td.menu{
+	background:#1b1b1b;
+}
+
+td.menu_light{
+	background:#c7c7c7;
+}
+
+td.topo{
+	background:#1b1b1b;
+}
+
+a{
+	color:#FFF;
+	text-decoration:none;
+}
+
+a.normal{
+	color:#FFF;
+	text-decoration:none;
+}
+
+a.linkfundobranco{
+	color:#999;
+	text-decoration:underline;
+}
+
+h1.titulo{
+	color:#000
+}
+
+h3{
+	color:#000
+}
+
+h2{
+	color:#000;
+}
+
+#divCentralizada {  
+    position: absolute;  
+    width: 600px;  
+    height: 300px;  
+    left: 50%;  
+    top:50%;  
+    margin-left: -300px;  
+    margin-top: -150px
+}
